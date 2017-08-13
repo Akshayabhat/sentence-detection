@@ -18,5 +18,5 @@ Fetcher.jar to extract paragraphs from article.
 <ul> Fork/Clone repo </ul>
 <ul> cd repo</ul>
 <ul>Run the command: <br/>
-php GetSentences.php <link_to_article> <br/>
+php GetSentences.php [link_to_article] <br/>
 Eg: php GetSentences.php "http://www.weeklystandard.com/blogs/intel-chief-blasts-obama_802242.html" </ul>
