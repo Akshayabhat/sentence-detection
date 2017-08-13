@@ -1,4 +1,4 @@
-# sentences-detection
+# sentence-detection
 Sentence Detection using PHP for Fiskkit
 
 <h1> GIVEN: </h1>
