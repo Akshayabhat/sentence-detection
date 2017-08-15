@@ -7,11 +7,11 @@ Fetcher.jar to extract paragraphs from article.
 
 <h1> APPROACH: </h1>
 <br/>
- Created executable jar file to call fetcher.pullAndExtract() 
- Used exec() function in php to execute the jar and got paragraphs
- Converted smart quotes to regular quotes as it interfered with the parsing
- Used NLPtools to separate paragraphs to sentences  (Used composer to installd dependencies)
- Wrote senteces to csv file sentences.csv 
+ <ul>Created executable jar file to call fetcher.pullAndExtract()</ul>
+ <ul>Used exec() function in php to execute the jar and got paragraphs</ul>
+ <ul>Converted smart quotes to regular quotes as it interfered with the parsing</ul>
+ <ul>Used NLPtools to separate paragraphs to sentences  (Used composer to installd dependencies)</ul>
+ <ul>Wrote senteces to csv file sentences.csv</ul>
  
 <h1> ASSUMPTIONS: </h1>
  A sentence is considered complete if it ends with any of the following:
